@@ -13,7 +13,7 @@
         CPU125: CPU125 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LS(C) &kp I &kp G &kp A &kp R &kp E &kp T &kp T &kp E &kp DOT &kp N7 &kp N6 &kp N5 &kp RET>;
+            bindings = <&kp LS(A) &kp N &kp Y &kp A &kp L &kp I &kp S &kp E &kp DOT &kp N0 &kp N9 &kp N9>;
             label = "CPU125";
         };
 
